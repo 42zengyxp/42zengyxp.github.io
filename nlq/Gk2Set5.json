@@ -1,0 +1,282 @@
+[
+   {
+      "questions":"सेरिज पुरा गर्नुस..!! S,M,T,W,T,F,??",
+      "optionA":"W",
+      "optionB":"M",
+      "optionC":"S",
+      "optionD":"T",
+      "correctAns":"S"
+   },
+   {
+      "question":"भुलवस एउटा विधार्थीको अंक 63 को ठाउमा 83 लेखियो जसले गर्दा सम्पुर्ण विधार्थीको को अंक आधा(/2) ले वृध्दि हुन पुग्यो भने कक्षामा कति विधार्थी होलान??",
+      "optionA":"30 जना",
+      "optionB":"50 जना",
+      "optionC":"20 जना",
+      "optionD":"40 जना",
+      "correctAns":"40 जना"
+   },
+   {
+      "question":"366 पेजको कितावमा जम्मा कति Digit प्रयोग गरिएको हुन्छ??",
+      "optionA":"960",
+      "optionB":"990",
+      "optionC":"970",
+      "optionD":"980",
+      "correctAns":"990"
+   },
+   {
+      "question":"A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
+      "optionA":"8",
+      "optionB":"No profit No loss",
+      "optionC":"4",
+      "optionD":"5",
+      "correctAns":"5"
+   },
+   {
+      "question":"यदि E=5 र HOTEL=12 भए,LAMB= कति होला??",
+      "optionA":"6",
+      "optionB":"8",
+      "optionC":"7",
+      "optionD":"5",
+      "correctAns":"7"
+   },
+   {
+      "question":"दिईएको सेरिज पुरा गर्नुस..!! 8,6,9,23,87,??",
+      "optionA":"8x1=8-2=6",
+      "optionB":"87x5=435-6=429",
+      "optionC":"9x3=27-4=23",
+      "optionD":"6x2=12-3=9",
+      "correctAns":"87x5=435-6=429"
+   },
+   {
+      "question":"A 3-digit number 4p3 is added to another 3-digit number 984 to give the four-digit number 13q7, which is divisible by 11. then, (p + q) is :",
+      "optionA":"11",
+      "optionB":"9",
+      "optionC":"10",
+      "optionD":"8",
+      "correctAns":"10"
+   },
+   {
+      "question":"On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is",
+      "optionA":"55",
+      "optionB":"60",
+      "optionC":"50",
+      "optionD":"45",
+      "correctAns":"60"
+   },
+   {
+      "question":"एउटा समारोहमा सहभागीले हात मिलाउदा जम्मा 1326 पटक मिलाएछन,भने जम्मा कति जना सहभागी थिए??",
+      "optionA":"52 जना",
+      "optionB":"62 जना",
+      "optionC":"42 जना",
+      "optionD":"72 जना",
+      "correctAns":"52 जना"
+   },
+   {
+      "question":"यदि तपाई  देखि 100 सम्म सवै अंक लेख्नुभयो भने कति पटक 3 लेख्नुहुन्छ??",
+      "optionA":"19 पटक",
+      "optionB":"20 पटक",
+      "optionC":"21 पटक",
+      "optionD":"22 पटक",
+      "correctAns":"20 पटक"
+   },
+   {
+      "question":"यदि तरकारीको मुल्य 20% ले घट्यो भने पहिलेकै खर्च कायम गर्दा उपभोगमा कति प्रतिशतले वृध्दि गर्नुपर्ला??",
+      "optionA":"15%",
+      "optionB":"25%",
+      "optionC":"20%",
+      "optionD":"21%",
+      "correctAns":"25%"
+   },
+   {
+      "question":"ABBCCCDDDD......को 50 औ अक्षर के आउछ??",
+      "optionA":"I",
+      "optionB":"J",
+      "optionC":"M",
+      "optionD":"K",
+      "correctAns":"J"
+   },
+   {
+      "question":"Live started a business investing Rs. 45000. After 3 months,Event' joined him with a capital of Rs. 60000. After another 6 months, Offer' joined them with a capital of Rs. 90000. 'At the end of the year, they made a profit of Rs. 20000. What would be Offer's share in it?",
+      "optionA":"Rs 5000",
+      "optionB":"Rs 6000",
+      "optionC":"Rs 4000 Answer: Option D Explanation: Just take care of the months of investment, rest all will be simple. Yogesh:Pranab:Atul = 45000*12:60000*9:90000*3 = 2:2: Atul's share = Rs. 20000 * (/5) = Rs. 4000",
+      "optionD":"Rs 7000",
+      "correctAns":"Rs 4000 Answer: Option D Explanation: Just take care of the months of investment, rest all will be simple. Yogesh:Pranab:Atul = 45000*12:60000*9:90000*3 = 2:2: Atul's share = Rs. 20000 * (/5) = Rs. 4000"
+   },
+   {
+      "question":"The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+      "optionA":"Rs. 2200",
+      "optionB":"Rs. 2400",
+      "optionC":"Rs. 2000",
+      "optionD":"Data inadequate",
+      "correctAns":"Rs. 2000"
+   },
+   {
+      "question":"एउटा पसले केहि सामान रु 5/6 मा किनेर 6/5 मा वेच्यो भने कति % नाफा पायो होला?",
+      "optionA":"54%",
+      "optionB":"64%",
+      "optionC":"34%",
+      "optionD":"44%",
+      "correctAns":"44%"
+   },
+   {
+      "question":"नेपाल सम्म नेपाल मा कतिवटा संबिधान जारी भैसकेका छन् ?",
+      "optionA":"७ वटा",
+      "optionB":"६ वटा",
+      "optionC":"५ वटा",
+      "optionD":"८ वटा",
+      "correctAns":"७ वटा"
+   },
+   {
+      "question":"हाल नेपाल को संबिधानमा अनुसार कतिवटा राज्यका निर्देशक सिद्धान्त व्यवस्था गरिएको छ?",
+      "optionA":"३ वटा",
+      "optionB":"६ वटा",
+      "optionC":"५ वटा",
+      "optionD":"४ वटा",
+      "correctAns":"४ वटा"
+   },
+   {
+      "question":"नेपाल को पहिलो लिखित संबिधान कुन हो?",
+      "optionA":"मुलुकी ऐन",
+      "optionB":"नेपालको अन्तरिम शासन बिधान ,२००७",
+      "optionC":"नेपाल सरकार को बैधानिक कानुन, २००४",
+      "optionD":"नेपाल अधिराज्य को संबिधान २०१९",
+      "correctAns":"नेपाल सरकार को बैधानिक कानुन, २००४"
+   },
+   {
+      "question":"Royal Gift of People' नेपालको कुन संबिधान लाई चिनिन्छ ?",
+      "optionA":"नेपाल को संबिधान २०१९नेपाल",
+      "optionB":"नेपाल सरकार को बैधानिक कानुन, २००४",
+      "optionC":"अधिराज्य को संबिधान २०१५",
+      "optionD":"नेपालको अन्तरिम शासन बिधान ,२००७",
+      "correctAns":"अधिराज्य को संबिधान २०१५"
+   },
+   {
+      "question":"हाल नेपाल को संबिधानमा अनुसार कति प्रकारका अदालत हुनेछन।",
+      "optionA":"१ प्रकार",
+      "optionB":"२ प्रकार",
+      "optionC":"४ प्रकार",
+      "optionD":"३ प्रकार",
+      "correctAns":"३ प्रकार"
+   },
+   {
+      "question":"विश्व को सबैभन्दा पहिलो र छोटो लिखित संबिधान कुन हो?",
+      "optionA":"भारत को संबिधान २६ जनवरी १९५० चीन को संबिधान २५ दिसेम्बेर १९४७",
+      "optionB":"चीन को संबिधान २५ दिसेम्बेर १९४७",
+      "optionC":"बेलायत को संबिधान सन् १२१५ जुन २५",
+      "optionD":"अमेरिकाको संबिधान सेप्तेम्बेर १७, १७८७",
+      "correctAns":"अमेरिकाको संबिधान सेप्तेम्बेर १७, १७८७"
+   },
+   {
+      "question":"नेपाली भाषा लाई भारत को संबिधान को कति औ अनुसूची मा राखिएको छ ?",
+      "optionA":"६ औ",
+      "optionB":"७ औ",
+      "optionC":"८ औ",
+      "optionD":"५ औ",
+      "correctAns":"८ औ"
+   },
+   {
+      "question":" Ivor Jennings कुन संबिधान को निर्माण आएका बिदेशी कानुनविद हुन्?",
+      "optionA":"नेपाल को अन्तरिम शासन बिधान,२००७",
+      "optionB":"नेपाल को संबिधान २०१९",
+      "optionC":"नेपाल सरकार को बैधानिक कानुन,२००४",
+      "optionD":"नेपाल अधिराज्य को संबिधान, २०१५",
+      "correctAns":"नेपाल अधिराज्य को संबिधान, २०१५"
+   },
+   {
+      "question":"सर्बोच्च अदालत मा प्रधान न्यायाधीश का अतिरिक्त कतिजना न्यायाधीश रहन्छ ?",
+      "optionA":"२० जना",
+      "optionB":"२५ जना",
+      "optionC":"२२ जना",
+      "optionD":"२१ जना",
+      "correctAns":"२० जना"
+   },
+   {
+      "question":"विश्व को सबैभन्दा लामो लिखित संबिधान कुन हो?",
+      "optionA":"चीन को संबिधान दिसेम्बेर २५ १९४७",
+      "optionB":"बेलायत को संबिधान सन् १२१५ जुन २५",
+      "optionC":"भारत को संबिधान २६ जनवरी १९५०",
+      "optionD":"अमेरिकाको संबिधान सेप्तेम्बेर १७, १७८७",
+      "correctAns":"भारत को संबिधान २६ जनवरी १९५०"
+   },
+   {
+      "question":"हाल नेपाल को संबिधानमा कतिवटा संबैधानिक आयोगहरुको व्यवस्था गरिएको छ?",
+      "optionA":"१३ वटा",
+      "optionB":"१४ वटा",
+      "optionC":"३१ वटा",
+      "optionD":"२२ वटा",
+      "correctAns":"१३ वटा"
+   },
+   {
+      "question":"हाल नेपाल को संबिधानमा अनुसार कतिवटा राज्यका नीति तथा दायित्व को व्यवस्था गरिएको छ?",
+      "optionA":"१४ वटा",
+      "optionB":"१३ वटा",
+      "optionC":"१५ वटा",
+      "optionD":"१२ वटा १३",
+      "correctAns":"१३ वटा"
+   },
+   {
+      "question":"हाल नेपाल को संबिधानमा अनुसार संघिय व्यबस्थापिका को कुल सदस्य संख्या कति हुन्छ ?",
+      "optionA":"३३०",
+      "optionB":"१६५",
+      "optionC":"२७५",
+      "optionD":"६०१",
+      "correctAns":"२७५"
+   },
+   {
+      "question":"हाल नेपाल को संबिधानमा अनुसार प्रत्येक नागरिक का कतिवटा कर्तब्य को व्यवस्था गरिएको छ?",
+      "optionA":"४ वटा",
+      "optionB":"६ वटा",
+      "optionC":"२ वटा",
+      "optionD":"८ वटा",
+      "correctAns":"४ वटा"
+   },
+   {
+      "question":"संबिधान जिबन को बाटो हो, जसको छनोट राज्य आफैले गर्दछ' यो भनाइ कसको हो ?",
+      "optionA":"महात्मा गान्धी",
+      "optionB":"सुकरात",
+      "optionC":"अरस्तु",
+      "optionD":"ए भी डयसि",
+      "correctAns":"अरस्तु"
+   },
+   {
+      "question":"श्रीप्रकाश ,राम उग्रसिंह,रघुनाथ सिंह जस्ता संबिधान बिशेषज्ञ झिकाएर बनाएको संबिधान कुन हो?",
+      "optionA":"नेपाल अधिराज्य को संबिधान २०४७",
+      "optionB":"नेपालको अन्तरिम शासन बिधान ,२००७",
+      "optionC":"नेपाल सरकार को बैधानिक कानुन, २००४",
+      "optionD":"नेपाल अधिराज्य को संबिधान २०१९",
+      "correctAns":"नेपाल सरकार को बैधानिक कानुन, २००४"
+   },
+   {
+      "question":"संबिधान सभा बाट संबिधान जारी गर्ने नेपाल कतिऔ राष्ट्र कुन हो?",
+      "optionA":"४२ औ",
+      "optionB":"४३ औ",
+      "optionC":"४५ औ",
+      "optionD":"४४ औ",
+      "correctAns":"४४ औ"
+   },
+   {
+      "question":"नेपाल को संबिधान अनुसार ,संबिधान को पालना गर्नु,,,,,,,,,,,,,,,,,,,,,,, कर्तव्य हुनेछ ।",
+      "optionA":"प्रत्येक ब्यक्तिको",
+      "optionB":"प्रत्येक मान्छेको",
+      "optionC":"प्रत्येक नागरिकको",
+      "optionD":"प्रत्येक समाजको",
+      "correctAns":"प्रत्येक ब्यक्तिको"
+   },
+   {
+      "question":"हाल नेपाल को संबिधान को भाग, धारा अनुसूची क्रमस कुन सहि छ ?",
+      "optionA":"२० भाग ९७ धारा ६ अनुसूची",
+      "optionB":"२५ भाग १६५ धारा ४ अनुसूची",
+      "optionC":"२३ भाग १३३ धारा ३ अनुसूची",
+      "optionD":"३५ भाग , ३०८ धारा ,९ अनुसूची",
+      "correctAns":"३५ भाग , ३०८ धारा ,९ अनुसूची"
+   },
+   {
+      "question":"हाल नेपाल को संबिधानमा कतिवटा मौलिक हकहरुको व्यवस्था गरिएको छ?",
+      "optionA":"१४ वटा",
+      "optionB":"३१ वटा",
+      "optionC":"१३ वटा",
+      "optionD":"२२ वटा",
+      "correctAns":"३१ वटा"
+   }
+]

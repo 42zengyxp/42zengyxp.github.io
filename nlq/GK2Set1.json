@@ -1,0 +1,242 @@
+[
+   {
+      "questions":"Seti अञ्चलको सदरमुकाम कुन हो ?",
+      "optionA":"Dhangadi",
+      "optionB":"Mahendranagar",
+      "optionC":"Dipayal",
+      "optionD":"Martadi",
+      "correctAns":"Dipayal"
+   },
+   {
+      "questions":"Mustang जिल्लाको सदरमुकाम कुन हो ?",
+      "optionA":"Baglung",
+      "optionB":"Jomsom",
+      "optionC":"Beni",
+      "optionD":"Kusma",
+      "correctAns":"Jomsom"
+   },
+   {
+      "questions":"Rupandehi जिल्लाको सदरमुकाम कुन हो ?",
+      "optionA":"Tansen",
+      "optionB":"Bharatpur",
+      "optionC":"Sandhikharka",
+      "optionD":"Bhairahawa",
+      "correctAns":"Bhairahawa"
+   },
+   {
+      "questions":"पाच पोखरी दहबाट निस्केको नदि कुन हो ?",
+      "optionA":"भोटेकोशी",
+      "optionB":"इन्द्रावती",
+      "optionC":"त्रिसुली",
+      "optionD":"तामाकोशी",
+      "correctAns":"इन्द्रावती"
+   },
+   {
+      "questions":"क्षेत्रफलको हिसाबमा नेपालको सबै भन्दा सानो जिल्ला भक्तपुरको क्षेत्रफल कती छ ?",
+      "optionA":"१४८ वर्ग कि. मी",
+      "optionB":"११२ वर्ग कि. मी",
+      "optionC":"११९ वर्ग कि. मी",
+      "optionD":"१३० वर्ग कि. मी",
+      "correctAns":"११९ वर्ग कि. मी"
+   },
+   {
+      "questions":"ओलांगचुगोला घाटीबाट नेपाल प्रबेस गर्ने एकमात्र नदि कुन हो ?",
+      "optionA":"अरुण",
+      "optionB":"बरुण",
+      "optionC":"लिखु",
+      "optionD":"तमोर",
+      "correctAns":"तमोर"
+   },
+   {
+      "questions":"Rolpa जिल्लाको सदरमुकाम कुन हो ?",
+      "optionA":"Ghorahi",
+      "optionB":"Liwang",
+      "optionC":"Guleria",
+      "optionD":"Musikot",
+      "correctAns":"Liwang"
+   },
+   {
+      "questions":"Humla जिल्लाको सदरमुकाम कुन हो ?",
+      "optionA":"Jumla",
+      "optionB":"Simikot",
+      "optionC":"Gamgadi",
+      "optionD":"Manma",
+      "correctAns":"Simikot"
+   },
+   {
+      "questions":"चेपे नदीको मुहान नेपालको कुन ताल 'पोखरी' मा पर्दछ ?",
+      "optionA":"पाच पोखरी",
+      "optionB":"रारा ताल",
+      "optionC":"ढुध पोखरी",
+      "optionD":"गोसाईकुण्ड",
+      "correctAns":"ढुध पोखरी"
+   },
+   {
+      "questions":"च्छो रोल्पा ताल कुन जिल्लामा छ ?",
+      "optionA":"रसुवा",
+      "optionB":"डोल्पा",
+      "optionC":"पर्बत",
+      "optionD":"दोलखा",
+      "correctAns":"दोलखा"
+   },
+   {
+      "questions":"Mahakali अञ्चलको सदरमुकाम कुन हो ?",
+      "optionA":"Chainpur",
+      "optionB":"Mahendranagar",
+      "optionC":"Dhangadi",
+      "optionD":"Silgadi",
+      "correctAns":"Mahendranagar"
+   },
+   {
+      "questions":"संसारको सबै भन्दा अग्लो मुर्ति कुन हो ? (Till the data of 2013)",
+      "optionA":"Spring Temple Buddha (China)",
+      "optionB":"Grand Buddha at Ling Shan (China)",
+      "optionC":"Statue of Liberty (USA)",
+      "optionD":"Sendai Daikannon (Japan)",
+      "correctAns":"Spring Temple Buddha (China)"
+   },
+   {
+      "questions":"'गौरीफान्टा नाका' नेपालको कुन जिल्लामा पर्दछ ?",
+      "optionA":"Bajura",
+      "optionB":"Kanchanpur",
+      "optionC":"Rolpa",
+      "optionD":"Kailali",
+      "correct Ans":"Kailali"
+   },
+   {
+      "questions":"हाम्रो सौर्यमण्डल मा कती ओटा ग्रह हरु छन् ?",
+      "optionA":"9",
+      "optionB":"8",
+      "optionC":"7",
+      "optionD":"10",
+      "correct Ans":"8"
+   },
+   {
+      "questions":"झोलुङ्गे पुलको जिल्ला भनेर कुन जिल्लालाई चिनिन्छ ?",
+      "optionA":"Gorkha",
+      "optionB":"Tanahu",
+      "optionc":"Baglung",
+      "optionD":"Lamjung",
+      "correct Ans":"Baglung"
+   },
+   {
+      "questions":"तल दिएको मध्ये Gandaki अञ्चलमा नपर्ने जिल्ला कुन हो ?",
+      "optionA":"Chitwan",
+      "optionB":"Syangja",
+      "optionC":"Lamjung",
+      "optionD":"Kaski",
+      "correct Ans":"chitwan"
+   },
+   {
+      "questions":"नेपालभित्रको दुरीलाई हिसाब गर्दा कर्णाली नदि कति लामो छ ?",
+      "optionA":"550 km",
+      "optionB":"400 km",
+      "optionC":"507 km",
+      "optionD":"450 km",
+      "correct Ans":"507 km"
+   },
+   {
+      "questions":"पृथ्वीको बाहिरी भागलाई के भनिन्छ ?",
+      "optionA":"केन्द्रमण्डल",
+      "optionB":"स्थलमण्डल",
+      "optionC":"वायुमण्डल",
+      "optionD":"मध्यमण्डल",
+      "correct Ans":"स्थलमण्डल"
+   },
+   {
+      "questions":"Dailekh जिल्लाको सदरमुकाम कुन हो ?",
+      "optionA":"Guleria",
+      "optionB":"Birendranagar",
+      "optionC":"Dailekh",
+      "optionD":"Nepalgunj",
+      "correct Ans":"Dailekh"
+   },
+   {
+      "questions":"Janakpur अञ्चलको सदरमुकाम कुन हो ?",
+      "optionA":"Birgunj",
+      "optionB":"Kathmandu",
+      "optionC":"Janakpur",
+      "optionD":"Malangwa",
+      "correct Ans":"Janakpur"
+   },
+   {
+      "questions":"बुद्ध धर्ममा भिक्षु जीवनको सुरुवातलाई के भनिन्छ ?",
+      "optionA":"स्रवज्या",
+      "optionB":"प्रबज्या",
+      "optionC":"भ्रबज्या",
+      "optionD":"म्रबज्या",
+      "Correct Ans":"प्रबज्या"
+   },
+   {
+      "questions":"आफ्ना भाई , छोराहरुका लागि उमेरको जेस्ठताका आधारमा रोलक्रममा प्रधानमन्त्री हुने परम्परा कसले बासालेका थिए ?",
+      "optionA":"बिर सम्सेर",
+      "optionB":"चन्द्र सम्सेर",
+      "optionC":"पदम सम्सेर",
+      "optionD":"जंगबहादुर",
+      "Correct Ans":"जंगबहादुर"
+   },
+   {
+      "questions":"डेटोटिक लिपिको विकास कुन सभ्यतामा भएको हो?",
+      "optionA":"सिन्धुघाटी",
+      "optionB":"वैदिक",
+      "optionC":"चीन",
+      "optionD":"मिश्र",
+      "Correct Ans":"मिश्र"
+   },
+   {
+      "questions":"'The Politics' का लेखक को हुन्?",
+      "optionA":"प्लेटो (Plato)",
+      "optionB":"Julius Caesar",
+      "optionC":"अरस्तु (Aristotle)",
+      "optionD":"सुकरात (Socrates)",
+      "Correct Ans":"अरस्तु (Aristotle)"
+   },
+   {
+      "questions":"कसलाई नेपालका युवा कवि भनिन्छ ?",
+      "optionA":"लेखनाथ पौडेल",
+      "optionB":"भानुभक्त आचारय",
+      "optionC":"मोतीराम भट्ट",
+      "optionD":"माधब घिमीरे",
+      "Correct Ans":"मोतीराम भट्ट"
+   },
+   {
+      "questions":"मोटर चड्ने पहिलो राणा प्रधानमन्त्री को हुन् ?",
+      "optionA":"Dev Shumsher",
+      "optionB":"Juddha Shumsher",
+      "optionC":"Chandra Shumsher",
+      "optionD":"Bir Shumsher",
+      "Correct Ans":"Bir Shumsher"
+   },
+   {
+      "questions":"पृथ्वीनारयण शाहको कहिले देहावसान भयो ?",
+      "optionA":"वि.स.१८३१",
+      "optionB":"वि.स.१८३३",
+      "optionC":"वि.स.१८३२",
+      "optionD":"वि.स.१८३०",
+      "Correct Ans":"वि.स.१८३१"
+   },
+   {
+      "questions":"सुगौली सन्धी कहिले भएको थियो ?",
+      "optionA":"5 March 1816",
+      "optionB":"6 March 1816",
+      "optionC":"3 March 1816",
+      "optionD":"7 March 1816",
+      "Correct Ans":"7 March 1816"
+   },
+   {
+      "questions":"राजनीतिको मुख्य उदेश्य समाज र मानिस लाई नैतिकवान बनाउनु हो, यो भनाइ कसको हो?",
+      "optionA":"अरस्तु (Aristotle)",
+      "optionB":"कार्ल मार्क्स (Karl Marx)",
+      "optionC":"महात्मा गान्धी",
+      "optionD":"सुकरात (Socrates)",
+      "Correct Ans":"महात्मा गान्धी"
+   },
+   {
+      "questions":"लिम्बू भाषामा प्रयोग गरिने लिपि कुन हो ?",
+      "optionA":"संस्कृ",
+      "optionB":"देवनागरी",
+      "optionC":"ब्रह्मलिपि",
+      "optionD":"सिरीजङ्घा",
+      "Correct Ans":"सिरीजङ्घा"
+   }
+]

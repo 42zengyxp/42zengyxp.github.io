@@ -1,0 +1,242 @@
+[
+   {
+      "question":"तल दिएको मध्ये कुन राष्ट्र BRICS समूहमा पर्दैन ?",
+      "optionA":"South Africa",
+      "optionB":"China",
+      "optionC":"India",
+      "optionD":"Thailand",
+      "correctAns":"Thailand"
+   },
+   {
+      "question":"कर्मचारी सञ्चय कोषको स्थापना कहिले भएको हो ?",
+      "optionA":"वि.स. २०१५",
+      "optionB":"वि.स. २०२०",
+      "optionC":"वि.स. २००४",
+      "optionD":"वि.स. २०१९",
+      "correctAns":"वि.स. २०१९"
+   },
+   {
+      "question":"केन्द्रिय बैँक नभएको देशः",
+      "optionA":"Panama",
+      "optionB":"Switzerland",
+      "optionC":"Holland",
+      "optionD":"France",
+      "correctAns":"Panama"
+   },
+   {
+      "question":"नौं सय मेगावाट क्षमताको अरुण तेस्रो जलविद्दुत आयोजना निर्माणका लागि भारतिय कम्पनी सतलज जलविद्दुत निगमसँग परियोजना विकास सम्झौता कहिले भएको थियो ?",
+      "optionA":"2070 Magh 8",
+      "optionB":"2071 Mangshir 9",
+      "optionC":"2071 Kartik 15",
+      "optionD":"2071 Baishak 8",
+      "correctAns":"2071 Mangshir 9"
+   },
+   {
+      "question":"नेपालको श्रम शक्तिमा कुन प्रकृतिको जन शक्तिको बाहुल्यता छ ?",
+      "optionA":"अर्धदक्ष",
+      "optionB":"दक्ष",
+      "optionC":"अदक्ष तथा अर्धदक्ष",
+      "optionD":"सबै उत्तर ठिक छन्",
+      "correctAns":"अदक्ष तथा अर्धदक्ष"
+   },
+   {
+      "question":"विशव व्यापार संगठनको पहिलो मन्त्रिस्त्रिय बैठक कहाँ भएको थियो ?",
+      "optionA":"जापान",
+      "optionB":"सिंगापुर",
+      "optionC":"वसिङटन डी.सी",
+      "optionD":"जेनेभा",
+      "correctAns":"सिंगापुर"
+   },
+   {
+      "question":"U.N.O को स्थापना कहिले भएको हो?",
+      "optionA":"10 Oct. 1947",
+      "optionB":"02 Jun. 1940",
+      "optionC":"24 Jan. 1946",
+      "optionD":"24 Oct. 1945",
+      "correctAns":"24 Oct. 1945"
+   },
+   {
+      "question":"बेलायतमा निजीकरण गरिएको पहिलो सस्थान कुन हो ?",
+      "optionA":"ब्रिटिस पेट्रोलीयम निगम",
+      "optionB":"टेलीकम्युनिकेसन",
+      "optionC":"माथिका सबै",
+      "optionD":"स्टिल कम्पनी",
+      "correctAns":"ब्रिटिस पेट्रोलीयम निगम"
+   },
+   {
+      "question":"कृषि उत्पादन को लागि उतम माटो कुन हो ?",
+      "optionA":"बलौटे माटो",
+      "optionB":"चिम्टैलो माटो",
+      "optionC":"दोमट माटो",
+      "optionD":"पाँगो माटो तथा तलैया माटो",
+      "correctAns":"पाँगो माटो तथा तलैया माटो"
+   },
+   {
+      "question":"कुन माटो मा उर्वरा शक्ति बढी हुन्छ र माटो पनि नरम र मसिलो हुन्छ ?",
+      "optionA":"चिम्टैलो माटो",
+      "optionB":"पाँगो माटो",
+      "optionC":"बलौटे माटो",
+      "optionD":"दोमट माटो",
+      "correctAns":"पाँगो माटो"
+   },
+   {
+      "question":"सिक्का नभएको देशः",
+      "optionA":"Japan",
+      "optionB":"Paraguay",
+      "optionC":"Brazil",
+      "optionD":"India",
+      "correctAns":"Paraguay"
+   },
+   {
+      "question":"अर्थशास्त्रमा मुद्रा र ज्यालाको सम्बन्ध देखाउने एउटा प्रसिद्ध बक्ररेखा छ, त्यसलाई के भनिन्छ?",
+      "optionA":"Phillips Curve",
+      "optionB":"Peril Point",
+      "optionC":"सिमान्त रेखा",
+      "optionD":"ज्याला बक्ररेखा",
+      "correctAns":"Phillips Curve"
+   },
+   {
+      "question":"नेपालमा बिदेसी सहायता को संस्थागत बिजारोपण कहिले देखी भएको हो ?",
+      "optionA":"1977 AD",
+      "optionB":"1962 AD",
+      "optionC":"1959 AD",
+      "optionD":"1951 AD",
+      "correctAns":"1951 AD"
+   },
+   {
+      "question":"लिमिटेड कम्पनी भन्नाले के बुझिन्छ ?",
+      "optionA":"एक वा एक भन्दा बढी व्यक्तिको दायित्त्वमा स्थापित कम्पनी",
+      "optionB":"एक जना मात्र व्यक्तिको दायित्त्वमा स्थापित कम्पनी",
+      "optionC":"शयेरहोल्डर हरुको दायित्त्वमा स्थापित कम्पनी",
+      "optionD":"नेपाल सरकारको दायित्त्वमा स्थापित कम्पनी",
+      "correctAns":"शयेरहोल्डर हरुको दायित्त्वमा स्थापित कम्पनी"
+   },
+   {
+      "question":"नेपालमा उद्योग कति प्रकारका छन् ?",
+      "optionA":"७",
+      "optionB":"८",
+      "optionC":"२",
+      "optionD":"६",
+      "correctAns":"७"
+   },
+   {
+      "question":"एसियाको नोबल पुरस्कार मानिने रोमन म्यागासेसे पुरस्कार सन् २०१३ मा कुन नेपाली गैह्रसरकारी संस्थाले पाएको छ ?",
+      "optionA":"चौधरी ग्रुप",
+      "option":"ICTC ग्रुप",
+      "optionC":"जगदम्बा समूह",
+      "optionD":"शक्ति समुह",
+      "correctAns":"शक्ति समुह"
+   },
+   {
+      "question":"ATM कार्ड प्रयोगमा ल्याउँने नेपालको पहिलो बैँक कुन हो ?",
+      "optionA":"Himalayan Bank",
+      "optionB":"Standard Charted Bank",
+      "optionC":"Everest Bank",
+      "optionD":"Nabil Bank",
+      "correctAns":"Everest Bank"
+   },
+   {
+      "question":"नेपालमा कहिले देखि रातो र निलो रंगको ग्यास सिलिन्डर बिक्रि सुरु भएको हो ?",
+      "optionA":"2070 Asar 1",
+      "optionB":"2071 Kartik 15",
+      "optionC":"2065 Jestha 15",
+      "optionD":"2058 Magh 1",
+      "correctAns":"2070 Asar 1"
+   },
+   {
+      "question":"Which is the largest bilateral donor to Nepal?",
+      "optionA":"Malaysia",
+      "optionB":"Pakistan",
+      "optionC":"Japan",
+      "optionD":"Qatar",
+      "correctAns":"Japan"
+   },
+   {
+      "question":"थारु महिलाको मुख्य पर्व कुन हो ?",
+      "optionA":"कुनै पनि होइन",
+      "optionB":"फालो",
+      "optionC":"जितिय पर्व",
+      "optionD":"लोशार",
+      "correctAns":"जितिय पर्व"
+   },
+   {
+      "question":"SAARC सचिवालय कहाँ छ ?",
+      "optionA":"Colombo",
+      "optionB":"Kathmandu",
+      "optionC":"Dhaka",
+      "optionD":"New Delhi",
+      "correctAns":"Kathmandu"
+   },
+   {
+      "question":"गोरखापत्रले कति भाषामा समाचार एवम लेख प्रकाशन गर्छ ? (Data of 2014 AD)",
+      "optionA":"25",
+      "optionB":"30",
+      "optionC":"15",
+      "optionD":"20",
+      "correctAns":"30"
+   },
+   {
+      "question":"Who is known as the father of Aerodynamics?",
+      "optionA":"Isaac Newton",
+      "optionB":"Albert Einstein",
+      "optionC":"Michael Faraday",
+      "optionD":"George Cayley",
+      "correctAns":"George Cayley"
+   },
+   {
+      "question":"नेपाल जैविक विविधता को हिसाब ले कतिऔ राष्ट्र मानिन्छ ?",
+      "optionA":"२४",
+      "optionB":"२५",
+      "optionC":"२३",
+      "optionD":"२२",
+      "correctAns":"२५"
+   },
+   {
+      "question":"Brian Lara is related with which sport?",
+      "optionA":"Hockey",
+      "optionB":"Football",
+      "optionC":"Cricket",
+      "optionD":"Tennis",
+      "correctAns":"Cricket"
+   },
+   {
+      "question":"भारतले पहिलो आणविक परिछन कहिले गरेको थियो ?",
+      "optionA":"1965",
+      "optionB":"1974",
+      "optionC":"1999",
+      "optionD":"1967",
+      "correctAns":"1974"
+   },
+   {
+      "question":"सागर थापा कुन खेल संग सम्बन्धित छन् ?",
+      "optionA":"Volleyball",
+      "optionB":"Cricket",
+      "optionC":"Swimming",
+      "optionD":"Football",
+      "correctAns":"Football"
+   },
+   {
+      "question":"भ्यागुते रोग कुन किटाणुबाट सर्दछ ?",
+      "optionA":"मईको ब्यकटेरियम",
+      "optionB":"कर्नोब्यकटेरियम डिप्थेसिया",
+      "optionC":"भिब्रिओं",
+      "optionD":"भईरस",
+      "correctAns":"कर्नोब्यकटेरियम डिप्थेसिया"
+   },
+   {
+      "question":"करिश्मा कार्की कुन खेल संग सम्बन्धित छन् ?",
+      "optionA":"कराते",
+      "optionB":"पौडी",
+      "optionC":"क्रिकेट",
+      "optionD":"शुटिंग",
+      "correctAns":"पौडी"
+   },
+   {
+      "question":"ज्योतिष शास्त्रअनुसार योग कतिवोटा हुन्छ ?",
+      "optionA":"27",
+      "optionB":"08",
+      "optionC":"12",
+      "optionD":"15",
+      "correctAns":"27"
+   }
+]
