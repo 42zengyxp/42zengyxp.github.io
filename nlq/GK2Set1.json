@@ -101,7 +101,7 @@
       "optionB":"Kanchanpur",
       "optionC":"Rolpa",
       "optionD":"Kailali",
-      "correct Ans":"Kailali"
+      "correctAns":"Kailali"
    },
    {
       "questions":"हाम्रो सौर्यमण्डल मा कती ओटा ग्रह हरु छन् ?",
@@ -109,7 +109,7 @@
       "optionB":"8",
       "optionC":"7",
       "optionD":"10",
-      "correct Ans":"8"
+      "correctAns":"8"
    },
    {
       "questions":"झोलुङ्गे पुलको जिल्ला भनेर कुन जिल्लालाई चिनिन्छ ?",
@@ -117,7 +117,7 @@
       "optionB":"Tanahu",
       "optionc":"Baglung",
       "optionD":"Lamjung",
-      "correct Ans":"Baglung"
+      "correctAns":"Baglung"
    },
    {
       "questions":"तल दिएको मध्ये Gandaki अञ्चलमा नपर्ने जिल्ला कुन हो ?",
@@ -125,7 +125,7 @@
       "optionB":"Syangja",
       "optionC":"Lamjung",
       "optionD":"Kaski",
-      "correct Ans":"chitwan"
+      "correctAns":"chitwan"
    },
    {
       "questions":"नेपालभित्रको दुरीलाई हिसाब गर्दा कर्णाली नदि कति लामो छ ?",
@@ -133,7 +133,7 @@
       "optionB":"400 km",
       "optionC":"507 km",
       "optionD":"450 km",
-      "correct Ans":"507 km"
+      "correctAns":"507 km"
    },
    {
       "questions":"पृथ्वीको बाहिरी भागलाई के भनिन्छ ?",
@@ -141,7 +141,7 @@
       "optionB":"स्थलमण्डल",
       "optionC":"वायुमण्डल",
       "optionD":"मध्यमण्डल",
-      "correct Ans":"स्थलमण्डल"
+      "correctAns":"स्थलमण्डल"
    },
    {
       "questions":"Dailekh जिल्लाको सदरमुकाम कुन हो ?",
@@ -149,7 +149,7 @@
       "optionB":"Birendranagar",
       "optionC":"Dailekh",
       "optionD":"Nepalgunj",
-      "correct Ans":"Dailekh"
+      "correctAns":"Dailekh"
    },
    {
       "questions":"Janakpur अञ्चलको सदरमुकाम कुन हो ?",
@@ -157,7 +157,7 @@
       "optionB":"Kathmandu",
       "optionC":"Janakpur",
       "optionD":"Malangwa",
-      "correct Ans":"Janakpur"
+      "correctAns":"Janakpur"
    },
    {
       "questions":"बुद्ध धर्ममा भिक्षु जीवनको सुरुवातलाई के भनिन्छ ?",
@@ -165,7 +165,7 @@
       "optionB":"प्रबज्या",
       "optionC":"भ्रबज्या",
       "optionD":"म्रबज्या",
-      "Correct Ans":"प्रबज्या"
+      "correctAns":"प्रबज्या"
    },
    {
       "questions":"आफ्ना भाई , छोराहरुका लागि उमेरको जेस्ठताका आधारमा रोलक्रममा प्रधानमन्त्री हुने परम्परा कसले बासालेका थिए ?",
@@ -173,7 +173,7 @@
       "optionB":"चन्द्र सम्सेर",
       "optionC":"पदम सम्सेर",
       "optionD":"जंगबहादुर",
-      "Correct Ans":"जंगबहादुर"
+      "correctAns":"जंगबहादुर"
    },
    {
       "questions":"डेटोटिक लिपिको विकास कुन सभ्यतामा भएको हो?",
@@ -181,7 +181,7 @@
       "optionB":"वैदिक",
       "optionC":"चीन",
       "optionD":"मिश्र",
-      "Correct Ans":"मिश्र"
+      "correctAns":"मिश्र"
    },
    {
       "questions":"'The Politics' का लेखक को हुन्?",
@@ -189,7 +189,7 @@
       "optionB":"Julius Caesar",
       "optionC":"अरस्तु (Aristotle)",
       "optionD":"सुकरात (Socrates)",
-      "Correct Ans":"अरस्तु (Aristotle)"
+      "correctAns":"अरस्तु (Aristotle)"
    },
    {
       "questions":"कसलाई नेपालका युवा कवि भनिन्छ ?",
@@ -197,7 +197,7 @@
       "optionB":"भानुभक्त आचारय",
       "optionC":"मोतीराम भट्ट",
       "optionD":"माधब घिमीरे",
-      "Correct Ans":"मोतीराम भट्ट"
+      "correctAns":"मोतीराम भट्ट"
    },
    {
       "questions":"मोटर चड्ने पहिलो राणा प्रधानमन्त्री को हुन् ?",
@@ -205,7 +205,7 @@
       "optionB":"Juddha Shumsher",
       "optionC":"Chandra Shumsher",
       "optionD":"Bir Shumsher",
-      "Correct Ans":"Bir Shumsher"
+      "correctAns":"Bir Shumsher"
    },
    {
       "questions":"पृथ्वीनारयण शाहको कहिले देहावसान भयो ?",
@@ -213,7 +213,7 @@
       "optionB":"वि.स.१८३३",
       "optionC":"वि.स.१८३२",
       "optionD":"वि.स.१८३०",
-      "Correct Ans":"वि.स.१८३१"
+      "correctAns":"वि.स.१८३१"
    },
    {
       "questions":"सुगौली सन्धी कहिले भएको थियो ?",
@@ -221,7 +221,7 @@
       "optionB":"6 March 1816",
       "optionC":"3 March 1816",
       "optionD":"7 March 1816",
-      "Correct Ans":"7 March 1816"
+      "correctAns":"7 March 1816"
    },
    {
       "questions":"राजनीतिको मुख्य उदेश्य समाज र मानिस लाई नैतिकवान बनाउनु हो, यो भनाइ कसको हो?",
@@ -229,7 +229,7 @@
       "optionB":"कार्ल मार्क्स (Karl Marx)",
       "optionC":"महात्मा गान्धी",
       "optionD":"सुकरात (Socrates)",
-      "Correct Ans":"महात्मा गान्धी"
+      "correctAns":"महात्मा गान्धी"
    },
    {
       "questions":"लिम्बू भाषामा प्रयोग गरिने लिपि कुन हो ?",
@@ -237,6 +237,6 @@
       "optionB":"देवनागरी",
       "optionC":"ब्रह्मलिपि",
       "optionD":"सिरीजङ्घा",
-      "Correct Ans":"सिरीजङ्घा"
+      "correctAns":"सिरीजङ्घा"
    }
 ]

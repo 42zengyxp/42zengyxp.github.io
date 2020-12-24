@@ -5,7 +5,7 @@
       "optionB":"3",
       "optionC":"8",
       "optionD":"7",
-      "Correct Ans":"7"
+      "correctAns":"7"
    },
    {
       "questions":"एसियाको नोबल पुरस्कार मानिने रोमन म्यागासेसे पुरस्कार सन् २०१३ मा कुन नेपाली गैह्रसरकारी संस्थाले पाएको छ ?",
@@ -13,7 +13,7 @@
       "optionB":"चौधरी ग्रुप",
       "optionC":"ICTC ग्रुप",
       "optionD":"जगदम्बा समूह",
-      "Correct Ans":"शक्ति समुह"
+      "correctAns":"शक्ति समुह"
    },
    {
       "questions":"मकै र कोदो को लागि उपयुक्त माटो कुन मानिन्छ ?",
@@ -21,7 +21,7 @@
       "optionB":"बलौटे पत्थरिलो माटो",
       "optionC":"रातो फुस्रो माटो",
       "optionD":"पाँगो माटो र तलैया माटो",
-      "Correct Ans":"रातो फुस्रो माटो"
+      "correctAns":"रातो फुस्रो माटो"
    },
    {
       "questions":"राष्ट्रिय श्रमशक्ति सर्वेक्षण, २०१३ का अनुसार नेपालमा सबैभन्दा बढी कुन देशबाट रेमिट्यान्स भित्रिने गरेको छ ?",
@@ -29,7 +29,7 @@
       "optionB":"Saudi Arabiya",
       "optionC":"UAE",
       "optionD":"Qatar",
-      "Correct Ans":"Qatar"
+      "correctAns":"Qatar"
    },
    {
       "questions":"United Nations को आब्वाहन अनुसार विश्वभर अन्तराष्ट्रिय आप्रवासन दिवस कती तारिख मा मनाइन्छ ?",
@@ -37,7 +37,7 @@
       "optionB":"December 18",
       "optionC":"December 01",
       "optionD":"March 15",
-      "Correct Ans":"December 18"
+      "correctAns":"December 18"
    },
    {
       "questions":"नेपाली अर्थतन्त्रमा मुख्य अन्न बाली धानले कति प्रतिसत योगदान दिन्छ ? (Data 2070 BS)",
@@ -45,7 +45,7 @@
       "optionB":"9 %",
       "optionC":"12 %",
       "optionD":"7 %",
-      "Correct Ans":"7 %"
+      "correctAns":"7 %"
    },
    {
       "questions":"World Bank ले हालै सार्बजनिक गरेको प्रतिबेदन अनुसार (2012 AD) मा कुल गार्हस्थ उत्पादन (GDP) को अनुपात मा सबै भन्दा धेरै रेमिटान्स (Remittance) भित्र्याउने मुलुक कुन हो ?",
@@ -53,7 +53,7 @@
       "optionB":"China",
       "optionC":"Tajikistan",
       "optionD":"Nepal",
-      "Correct Ans":"Tajikistan"
+      "correctAns":"Tajikistan"
    },
    {
       "questions":"नेपाल बिकाश मंच (NDF) को गठन कहिले भएको हो ?",
@@ -61,7 +61,7 @@
       "optionB":"2005 AD",
       "optionC":"2003 AD",
       "optionD":"2000 AD",
-      "Correct Ans":"2000 AD"
+      "correctAns":"2000 AD"
    },
    {
       "questions":"हाल नेपालमा कति वटा औधोगीक रहेका छन् ?",
@@ -69,7 +69,7 @@
       "optionB":"२०",
       "optionC":"२१",
       "optionD":"११",
-      "Correct Ans":"११"
+      "correctAns":"११"
    },
    {
       "questions":"बजेटलाई कामको आधारमा पनि बर्गिकरण गर्ने व्यवस्था कहिले बाट गरिएको थियो ?",
@@ -77,7 +77,7 @@
       "optionB":"2019 BS",
       "optionC":"2037 BS",
       "optionD":"2028 BS",
-      "Correct Ans":"2019 BS"
+      "correctAns":"2019 BS"
    },
    {
       "questions":"हाल नेपालको सबैभन्दा बढी मात्रामा निर्यात हुने बस्तु कुन हो ? (Till the data of 2014)",
@@ -85,7 +85,7 @@
       "optionB":"बनष्पति घ्यु",
       "optionC":"हस्तकला",
       "optionD":"गलैचा",
-      "Correct Ans":"बनष्पति घ्यु"
+      "correctAns":"बनष्पति घ्यु"
    },
    {
       "questions":"भू - तत्व, हावा पानी र बनस्पति को आधार मा नेपाल मा पाइने माटो लाई कति भागमा वर्गीकरण गरिएको छ ?",
@@ -93,7 +93,7 @@
       "optionB":"5",
       "optionC":"4",
       "optionD":"6",
-      "Correct Ans":"5"
+      "correctAns":"5"
    },
    {
       "questions":"Birgunj भन्सार भारतको कुन सहर संग जोडिएको छ ?",
@@ -101,7 +101,7 @@
       "optionB":"Amrtisar",
       "optionC":"Raxaul",
       "optionD":"Calcutta",
-      "Correct Ans":"Raxaul"
+      "correctAns":"Raxaul"
    },
    {
       "questions":"अर्थशास्त्रमा लगानीको सिद्धान्त कुन अर्थशास्त्री संग सम्बन्धित छ ?",
@@ -109,7 +109,7 @@
       "optionB":"David Ricardo",
       "optionC":"Adam Smith",
       "optionD":"Max Weber",
-      "Correct Ans":"David Ricardo"
+      "correctAns":"David Ricardo"
    },
    {
       "questions":"नेपाल राष्ट्र बैंकको लेखापरिक्षण कसले गर्छ ?",
@@ -117,7 +117,7 @@
       "optionB":"राष्ट्रिय सभा",
       "optionC":"नेपाल सरकारले",
       "optionD":"प्रतिनिधिसभा",
-      "Correct Ans":"महालेखा परिक्षकले"
+      "correctAns":"महालेखा परिक्षकले"
    },
    {
       "questions":"खेतिपातीको लागी सबै भन्दा कम उब्जाउ हुने माटो कुन हो?",
@@ -125,7 +125,7 @@
       "optionB":"तलैया माटो",
       "optionC":"पाँगो माटो",
       "optionD":"बलौटे पत्थरिलो माटो",
-      "Correct Ans":"बलौटे पत्थरिलो माटो"
+      "correctAns":"बलौटे पत्थरिलो माटो"
    },
    {
       "questions":"नेपालमा कति प्रजातिका जडिबुटीहरु भेटिएका छन् ?",
@@ -133,7 +133,7 @@
       "optionB":"२५० प्रजातिका",
       "optionC":"३०० प्रजातिका",
       "optionD":"१०० प्रजातिका",
-      "Correct Ans":"२५० प्रजातिका"
+      "correctAns":"२५० प्रजातिका"
    },
    {
       "questions":"विश्व मानव अधिकार दिवस हरेक बर्ष कहिले मनाईन्छ ?",
@@ -141,7 +141,7 @@
       "optionB":"Dec 10",
       "optionC":"May 10",
       "optionD":"Jan 10",
-      "Correct Ans":"Dec 10"
+      "correctAns":"Dec 10"
    },
    {
       "questions":"अन्तर्राष्ट्रिय पर्वतारोहण उद्यान नुवाकोटको ककनीमा स्थापना गरिएको छ भने जैविक प्रयोगशाला कुन ठाउँमा रहेको छ ?",
@@ -149,7 +149,7 @@
       "optionB":"Chitwan",
       "optionC":"Nawalparasi",
       "optionD":"Janakpur",
-      "Correct Ans":"Janakpur"
+      "correctAns":"Janakpur"
    },
    {
       "questions":"नेपालमा औद्योगिक नीति कहिले देखि सुरु भएको हो ?",
@@ -157,7 +157,7 @@
       "optionB":"1978 AD",
       "optionC":"1998 AD",
       "optionD":"1988 AD",
-      "Correct Ans":"1958 AD"
+      "correctAns":"1958 AD"
    },
    {
       "questions":"कुन ग्रुपको रगत स्थान्तरण गर्न सबैभन्दा सुरक्षित हुन्छ ?",
@@ -165,7 +165,7 @@
       "optionB":"0 N",
       "optionC":"AB 'P'",
       "optionD":"B 'N'",
-      "Correct Ans":"0 N"
+      "correctAns":"0 N"
    },
    {
       "questions":"COP15 के संग सम्बन्धित छ ?",
@@ -173,7 +173,7 @@
       "optionB":"समुद्री जिवन",
       "optionC":"वन जंगल संरक्षण",
       "optionD":"जलवायु परिवर्तन",
-      "Correct Ans":"जलवायु परिवर्तन"
+      "correctAns":"जलवायु परिवर्तन"
    },
    {
       "questions":"नेपाल सरकारले २० बर्षे नीति कहिले ल्याएको हो ?",
@@ -181,7 +181,7 @@
       "optionB":"वि.स.२०१५",
       "optionC":"वि.स.२०३८",
       "optionD":"वि.स.२०३७",
-      "Correct Ans":"वि.स.२०५४"
+      "correctAns":"वि.स.२०५४"
    },
    {
       "questions":"ASEAN को दशौ सदस्य राष्ट्र कुन हो ?",
@@ -189,7 +189,7 @@
       "optionB":"कम्बोडिया",
       "optionC":"जापान",
       "optionD":"मलेसीया",
-      "Correct Ans":"कम्बोडिया"
+      "correctAns":"कम्बोडिया"
    },
    {
       "questions":"बंगलादेशको सरकारी विमान सेवालाई के भनिन्छ ?",
@@ -197,7 +197,7 @@
       "optionB":"Panam",
       "optionC":"Biman",
       "optionD":"Einam",
-      "Correct Ans":"Biman"
+      "correctAns":"Biman"
    },
    {
       "questions":"नेपालमा सबैभन्दा बढी बाघ पाइने राष्ट्रिय निकुञ्ज कुन हो ?",
@@ -205,7 +205,7 @@
       "optionB":"Khaptad National Park",
       "optionC":"Chitwan National Park",
       "optionD":"Bardiya National Park",
-      "Correct Ans":"Chitwan National Park"
+      "correctAns":"Chitwan National Park"
    },
    {
       "questions":"कुन प्रकारको भिटामिनको कमीले रतन्धो रोग लाग्दछ?",
@@ -213,7 +213,7 @@
       "optionB":"भिटामिन C",
       "optionC":"भिटामिन B",
       "optionD":"भिटामिन A",
-      "Correct Ans":"भिटामिन A"
+      "correctAns":"भिटामिन A"
    },
    {
       "questions":"Astronomical Telescope को आविस्कार कहिले भएको हो ?",
@@ -221,7 +221,7 @@
       "optionB":"सन् १६०९",
       "optionC":"सन् १७००",
       "optionD":"सन् १६०७",
-      "Correct Ans":"सन् १६०९"
+      "correctAns":"सन् १६०९"
    },
    {
       "questions":"२०७० सालको ब्रिटिस - गोर्खा कपको उपाधि कुन कुन टीमले जितेको थियो ?",
@@ -229,7 +229,7 @@
       "optionB":"Sankata Club",
       "optionC":"Manang Marshyandhi",
       "optionD":"Boys Union",
-      "Correct Ans":"Manang Marshyandhi"
+      "correctAns":"Manang Marshyandhi"
    },
    {
       "questions":"सबै भन्दा लामो दुरी उफ्रने जनावर कुन हो ?",
@@ -237,6 +237,6 @@
       "optionB":"घोडा",
       "optionC":"कंगारु",
       "optionD":"चितुवा",
-      "Correct Ans":"कंगारु"
+      "correctAns":"कंगारु"
    }
 ]
