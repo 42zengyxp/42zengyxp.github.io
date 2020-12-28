@@ -1,0 +1,146 @@
+[
+   {
+     "question":"The dance form Garba is associated with which of the following states?",
+     "optionA":"Gujarat",
+     "optionB":"Maharashtra",
+     "optionC":"Bihar",
+     "optionD":"Himachal Pradesh",
+     "correctAns":"Gujarat"
+   },
+   {
+     "question":"In which of the following cities, Indira Gandhi International Airport is located?",
+     "optionA":"Chennai",
+     "optionB":"Mumbai",
+     "optionC":"New Delhi",
+     "optionD":"Bangalore",
+     "correctAns":"New Delhi"
+   },
+   {
+     "question":"On which river, is the Bhakra Nangal Dam of India built?",
+     "optionA":"Ganga",
+     "optionB":"Sutlej",
+     "optionC":"Brahmaputra",
+     "optionD":"Yamuna",
+     "correctAns":"Sutlej"
+   },
+   {
+     "question":"‘Lavani’ is a dance form of which state in India?",
+     "optionA":"Maharashtra",
+     "optionB":"Gujarat",
+     "optionC":"Madhya Pradesh",
+     "optionD":"Andhra Pradesh",
+     "correctAns":"Maharashtra"
+   },
+   {
+     "question":"Which of the following statements is correct about El-Nino?",
+     "optionA":"There would be upwelling of cold water on the coast of Peru.",
+     "optionB":"Peruvian deserts witness heavy rainfall.",
+     "optionC":"Results in floods in larger part of Asia.",
+     "optionD":"El-Nino is also referred to as Little Girl.",
+     "correctAns":"Peruvian deserts witness heavy rainfall."
+   },
+   {
+     "question":"Which Indian dance form traces its traditions to the Mahari and the Gotipua traditions?",
+     "optionA":"Kathak",
+     "optionB":"Bharatnatyam",
+     "optionC":"Kathakali",
+     "optionD":"Odissi",
+     "correctAns":"Odissi"
+   },
+   {
+     "question":"Which of the following states is famous for weaving carpets?",
+     "optionA":"Sikkim",
+     "optionB":"Kashmir",
+     "optionC":"Tamil Nadu",
+     "optionD":"Odisha",
+     "correctAns":"Kashmir"
+   },
+   {
+     "question":"How many Indian states share their boundaries with Nepal?",
+     "optionA":"3",
+     "optionB":"4",
+     "optionC":"5",
+     "optionD":"2",
+     "correctAns":"5"
+   },
+   {
+     "question":"ECOMARC is a symbol related to which of the following?",
+     "optionA":"Goods safe for environment",
+     "optionB":"Best quality",
+     "optionC":"Imported goods",
+     "optionD":"Exported goods",
+     "correctAns":"Goods safe for environment"
+   },
+   {
+     "question":"Which of the following is the correct order of the cities from West to East?",
+     "optionA":"Ranchi-Alwar-Bhagalpur-Gorakhpur",
+     "optionB":"Gorakhpur-Bhagalpur-Ranchi-Alwar",
+     "optionC":"Alwar-Gorakhpur-Ranchi-Bhagalpur",
+     "optionD":"Bhagalpur-Ranchi-Alwar-Gorakhpur",
+     "correctAns":"Alwar-Gorakhpur-Ranchi-Bhagalpur"
+   },
+   {
+     "question":"Which among the following statements about the Ozone layer are correct?\n1. Ozone is found mostly in the stratosphere\n2. The ozone layer lies 55-75 km above the surface of the earth\n3. Ozone absorbs ultraviolet radiation from the Sun\n4. Ozone layer has no significance for life on the earth",
+     "optionA":"1 & 2",
+     "optionB":"1 & 3",
+     "optionC":"2 & 4",
+     "optionD":"3 & 4",
+     "correctAns":"1 & 3"
+   },
+   {
+     "question":"Which among the following separated the Great Plains of India from the Shiwalik?",
+     "optionA":"Main Control Thrust",
+     "optionB":"Main Boundary Thrust",
+     "optionC":"Himalayan Frontal Fault",
+     "optionD":"Great Boundary Fault",
+     "correctAns":"Himalayan Frontal Fault"
+   },
+   {
+     "question":"Pir Panjal Range in the Himalayas is a part of which of the following?",
+     "optionA":"Shiwalik Himalaya",
+     "optionB":"Lesser Himalaya",
+     "optionC":"Central Himalaya",
+     "optionD":"Trans Himalaya",
+     "correctAns":"Lesser Himalaya"
+   },
+   {
+     "question":"What is the average height of the lesser Himalayas?",
+     "optionA":"1300-4600",
+     "optionB":"5000-6000",
+     "optionC":"6000-8000",
+     "optionD":"None of the above",
+     "correctAns":"1300-4600"
+   },
+   {
+     "question":"Which among the following about the Himalaya Drainage are correct?\n1. Most of the rivers are perennial in nature\n2. The rivers are eroding as well as depositing agents\n3. Most of the rivers are Antecedent\n4. The rivers drain only the southern slope of the Himalaya\nChoose the correct option from the codes given below :",
+     "optionA":"1 & 2",
+     "optionB":"1, 2 & 3",
+     "optionC":"1, 2 & 4",
+     "optionD":"1, 2, 3 & 4",
+     "correctAns":"1, 2 & 3"
+   },
+   {
+     "question":"Bhakra Nangal Dam is a joint venture of which among the following states?\n1. Punjab\n2. Haryana\n3. Rajasthan\nChoose the correct option from the codes given below :",
+     "optionA":"1 & 2",
+     "optionB":"1 & 3",
+     "optionC":"2 & 3",
+     "optionD":"1, 2 & 3",
+     "correctAns":"1, 2 & 3"
+   },
+   {
+     "question":"Damodar Valley Corporation was founded in which year?",
+     "optionA":"1948",
+     "optionB":"1955",
+     "optionC":"1958",
+     "optionD":"1961",
+     "correctAns":"1948"
+   },
+   {
+     "question":"Which of the following non-conventional energy sources can be exploited most economically?",
+     "optionA":"Wind",
+     "optionB":"Solar",
+     "optionC":"Geo thermal",
+     "optionD":"None of the above",
+     "correctAns":"Solar"
+   }
+]
