@@ -1,0 +1,242 @@
+[
+	{
+	"question":"Morang जिल्लाको सदरमुकाम कुन हो ?",
+	"optionA":"Biratnagar",
+	"optionB":"Inaruwa",
+	"optionC":"Khandbari",
+	"optionD":"Dhankuta",
+	"correctAns":"Biratnagar"
+		 },
+		 {
+	"question":"Where does Mt. Everest Lies?",
+	"optionA":"Nepal, Europe",
+	"optionB":"Nepal, Africa",
+	"optionC":"Pakistan, Asia",
+	"optionD":"Nepal, Asia",
+	"correctAns":"Nepal, Asia"
+		 },
+		 {
+	"question":"क्षेत्रफल को आधार मा सबै भन्दा ठुलो देश कुन हो ?",
+	"optionA":"Russia",
+	"optionB":"China",
+	"optionC":"Canada",
+	"optionD":"USA",
+	"correctAns":"Russia"
+		 },
+		 {
+	"question":"Sankhuwasabha जिल्लाको सदरमुकाम कुन हो ?",
+	"optionA":"Manglung",
+	"optionB":"Inarwuwa",
+	"optionC":"Biratnagar",
+	"optionD":"Khandbari",
+	"correctAns":"Khandbari"
+		 },
+		 {
+	"question":"नेपालको तराई क्षेत्रमा कुन माटो पाईएको छ ?",
+	"optionA":"चिम्टाईलो माटो",
+	"optionB":"दोमट माटो",
+	"optionC":"बलौटे माटो",
+	"optionD":"पागो माटो",
+	"correctAns":"पागो माटो"
+		 },
+		 {
+	"question":"Panchthar जिल्लाको सदरमुकाम कुन हो ?",
+	"optionA":"चन्द्रगडी",
+	"optionB":"गाईघाट",
+	"optionC":"इनरुवा",
+	"optionD":"फिदिम",
+	"correctAns":"फिदिम"
+		 },
+		 {
+	"question":"Far Western Development Region मा पर्ने जिल्ला कुन हो?",
+	"optionA":"Dolpa",
+	"optionB":"Gulmi",
+	"optionC":"Baitadi",
+	"optionD":"Pyuthan",
+	"correctAns":"Baitadi"
+		 },
+		 {
+	"question":"Which is the smallest Zone in Nepal?",
+	"optionA":"Narayani",
+	"optionB":"Lumbini",
+	"optionC":"Mahakali",
+	"optionD":"Bheri",
+	"correctAns":"Mahakali"
+		 },
+		 {
+	"question":"Which is the largest Museums (संग्रहालय) in the world?",
+	"optionA":"British Museum, London",
+	"optionB":"National Gallery of Art, Washington, D.C",
+	"optionC":"Vatican Museums, Vatican City",
+	"optionD":"Metropolitan Museum of Art, New York City",
+	"correctAns":"British Museum, London"
+		 },
+		 {
+	"question":"विश्वको सबै भन्दा गहिरो ठाउँ Mariana Trench को गहिराई कति छ?",
+	"optionA":"10,971 M",
+	"optionB":"10,870 m",
+	"optionC":"10,365 m",
+	"optionD":"10,575 m",
+	"correctAns":"10,971 M"
+		 },
+		 {
+	 "question":"नेपालको हिमाली क्षेत्रमा प्रत्यक वर्ष 0.06 Degree Celsius, तराई मा 0.04 Degree Celsius तापक्रम वृद्धि भई रहेको छ भने हिमाल पारीको जिल्ला Manang र Mustang मा कति Degree Celsius का दरले तापक्रम वृद्धि भई रहेको छ ?",
+	"optionA":"0.03 Degree Celsius",
+	"optionB":"0.05 Degree Celsius",
+	"optionC":"0.01 Degree Celsius",
+	"optionD":"0.09 Degree Celsius",
+	"correctAns":"0.09 Degree Celsius"
+		 },
+		 {
+	"question":"सबै भन्दा अग्लो स्थानमा रहेको राजधानी सहर कुन हो ?",
+	"optionA":"Quito",
+	"optionB":"La Paz",
+	"optionC":"Asmara",
+	"optionD":"Thimphu",
+	"correctAns":"La Paz"
+		 },
+		 {
+	"question":"नेपालको राजधानी कुन बिकाश क्षेत्रमा रहेको छ ?",
+	"optionA":"Eastern Region",
+	"optionB":"Mid-Western Region",
+	"optionC":"Central Region",
+	"optionD":"Western Region",
+	"correctAns":"Central Region"
+		 },
+		 {
+	"question":"सगरमाथा हिमालको उचाई कति फिट छ?",
+	"optionA":"25125",
+	"optionB":"26855",
+	"optionC":"29028",
+	"optionD":"22390",
+	"correctAns":"29028"
+		 },
+		 {
+	"question":"धादिंग जिल्लाको कुन स्थानलाई 'सुन्तले टापू' उपनामले पनि चिनिन्छ ?",
+	"optionA":"स्यादुल",
+	"optionB":"मझिम्तार",
+	"optionC":"ज्यम्रुङ्ग",
+	"optionD":"नौबिसे",
+	"correctAns":"स्यादुल"
+		 },
+		 {
+	"question":"२०७२ साल, बैशाख १२ गते गएको भुकम्पको केन्द्रबिन्दु कहाँ थियो ?",
+	"optionA":"Rasuwa",
+	"optionB":"Barpak, Gorkha",
+	"optionC":"Besisahar, Lamjung",
+	"optionD":"Sindupalchowk",
+	"correctAns":"Barpak, Gorkha"
+		 },
+		 {
+	"question":"ओलांगचुगोला घाटीबाट नेपाल प्रबेस गर्ने एकमात्र नदि कुन हो ?",
+	"optionA":"अरुण",
+	"optionB":"तमोर",
+	"optionC":"लिखु",
+	"optionD":"बरुण",
+	"correctAns":"तमोर"
+		 },
+		 {
+	"question":"Parsa जिल्लाको सदरमुकाम कुन हो ?",
+	"optionA":"Gaur",
+	"optionB":"Birgunj",
+	"optionC":"Bharatpur",
+	"optionD":"Kalaiya",
+	"correctAns":"Birgunj"
+		 },
+		 {
+	"question":"नेपालमा सरदर बार्षिक बर्षा कति हुन्छ ?",
+	"optionA":"करिब १८० अर्ब घनमिटर",
+	"optionB":"करिब २८० अर्ब घनमिटर",
+	"optionC":"करिब २२५ अर्ब घनमिटर",
+	"optionD":"करिब २५० अर्ब घनमिटर",
+	"correctAns":"करिब २५० अर्ब घनमिटर"
+		 },
+		 {
+	"question":"विश्वको सबै भन्दा लामो Tunnel कुन हो जुन USA मा पर्दछ र जसलाई पानी को वितरण को लागि प्रयोग गरिएको छ ?",
+	"optionA":"Dahuofang Water Tunnel",
+	"optionB":"Päijänne Water Tunnel",
+	"optionC":"Delaware Aqueduct",
+	"optionD":"Orange–Fish River Tunnel",
+	"correctAns":"Delaware Aqueduct"
+		 },
+		 {
+	 "question":"पशुपतिनाथमा चादीका चार ढोका राख्न लगाउने प्रधानमन्त्री को हुन् ?",
+	"optionA":"चन्द्र सम्सेर",
+	"optionB":"जुद्द सम्सेर",
+	"optionC":"जंगबहादुर",
+	"optionD":"भीमसेन थापा",
+	"correctAns":"भीमसेन थापा"
+		 },
+		 {
+	"question":"फ्रान्सेली राज्यक्रान्तिलाई सबै किसिमका लेखकले तयार गरेका थिए। यस कालका साहित्य राज्यलाई नस्ट गर्नका लागि राम्रो गोल बारुद समान थिए। यस भन्दा पहिले क्रान्ति हरु यती बढी सब्द र सुत्रहरु ले कहिले पनि सुसज्जित भएका थिएनन्। यो भनाइ कसको हो ?",
+	"optionA":"Montesquieu",
+	"optionB":"Voltaire",
+	"optionC":"Russo",
+	"optionD":"Katbali",
+	"correctAns":"Katbali"
+		 },
+		 {
+	"question":"बिबकसिल नेपाली दल र साझा पार्टीबीच पार्टी एकता भई बिबकसिल साझा पार्टीको गठन कहिले भयाको हो ?",
+	"optionA":"बि.सं २०७४ साउन ११",
+	"optionB":"बि.सं २०७४ साउन १२",
+	"optionC":"बि.सं २०७४ साउन १०",
+	"optionD":"बि.सं २०७४ साउन ९",
+	"correctAns":"बि.सं २०७४ साउन ११"
+		 },
+		 {
+	"question":"भगवान बिस्नु को बाहन लाई के भनिन्छ ?",
+	"optionA":"साँढे",
+	"optionB":"गरुड",
+	"optionC":"लाटोकोसेरो",
+	"optionD":"मयुर",
+	"correctAns":"गरुड"
+		 },
+		 {
+	"question":"गौतम बुद्धको देह्त्याग कुन ठाउँमा भएको थियो ?",
+	"optionA":"भारतको गया",
+	"optionB":"भारतको कुशीनगर",
+	"optionC":"भारतको बनारस",
+	"optionD":"भारतको काशी",
+	"correctAns":"भारतको कुशीनगर"
+		 },
+		 {
+	"question":"चार जाते गुरुङ्को थर निम्न मध्ये कुन होइन ?",
+	"optionA":"लामिछाने",
+	"optionB":"घोताने",
+	"optionC":"ध्याप्रिन",
+	"optionD":"लामा",
+	"correctAns":"ध्याप्रिन"
+		 },
+		 {
+	"question":"भानुभक्त ले को बाट जीवन मा केहि उपयोगी काम गर्नु पर्छ भन्ने शिक्षा पाएका थिए ?",
+	"optionA":"घाँसी",
+	"optionB":"दाउरे",
+	"optionC":"गोठाले",
+	"optionD":"किसान",
+	"correctAns":"घाँसी"
+		 },
+		 {
+	"question":"औधोगिक क्रान्तिको परिणाम हरु के के हुन् ?",
+	"optionA":"समाजबादको उदय",
+	"optionB":"सबै उत्तर ठिक छन्",
+	"optionC":"व्यापार व्यवसाय मा बृदी र घरेलु उद्योग को समाप्ति",
+	"optionD":"जनसंख्या बृदी",
+	"correctAns":"सबै उत्तर ठिक छन्"
+		 },
+		 {
+	"question":"तत्कालिन मिथिला नगर हाल नेपालको कुन ठाउँ मा पर्दछ ?",
+	"optionA":"बिराटनगर",
+	"optionB":"झापा",
+	"optionC":"भरतपुर",
+	"optionD":"जनकपुर",
+	"correctAns":"जनकपुर"
+		 },
+		 {
+	"question":"France को इतिहासमा First Estate भन्नाले के लै बुझिन्छ ?",
+	"optionA":"पादरी तथा चर्च",
+	"optionB":"ब्यापारी तथा शिक्षक",
+	"optionC":"मजदुर तथा किसन वर्ग",
+	"optionD":"मध्यम वर्ग",
+	"correctAns":"पादरी तथा चर्च"
+		 }
+]
